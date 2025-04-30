@@ -52,7 +52,7 @@ The analysis reveals:
 ---
 
 ## 🌄 Screenshots (Placeholder Examples)  
-- **Population Growth Trends (1990–2022)**  
+- **Population Growth Trends (1970–2022)**  
   ![Population Growth](image/trend.png)  
 - **Top 10 Countries by World Population Percentage**  
   ![Top Countries](image/Top10.png)  
