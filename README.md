@@ -55,7 +55,7 @@ The analysis reveals:
 - **Population Growth Trends (1970–2022)**  
   ![Population Growth](image/trend.png)  
 - **Top 10 Countries by World Population Percentage**  
-  ![Top Countries](image/Top10.png)  
+  ![Top Countries](image/Topten.png)  
 
 ---
 
